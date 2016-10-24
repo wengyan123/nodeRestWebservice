@@ -1,0 +1,17 @@
+{
+  "name": "NodeRestWebservice",
+  "version": "0.0.1",
+  "description": "RESTful webservice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yan",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "mongodb": "~2.2.11",
+    "express": "~4.14.0",
+    "body-parser": "~1.15.2",
+    "mongoose": "~4.6.5"
+  }
+}
